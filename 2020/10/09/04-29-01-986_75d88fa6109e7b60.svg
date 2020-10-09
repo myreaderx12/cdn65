@@ -1,0 +1,15 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.05" x="70" y="145" width="122" height="23" rx="4" fill="black"/>
+<rect x="71" y="53" width="120" height="112" rx="4" fill="var(--color-bg)" stroke="var(--color-contrast-low)" stroke-width="2"/>
+<path d="M92 71L89 68" stroke="var(--color-contrast-high)" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M85.5 69C87.9853 69 90 66.9853 90 64.5C90 62.0147 87.9853 60 85.5 60C83.0147 60 81 62.0147 81 64.5C81 66.9853 83.0147 69 85.5 69Z" stroke="var(--color-contrast-high)" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"/>
+<rect x="72" y="98" width="118" height="22" fill="var(--color-contrast-lower)"/>
+<path d="M177 113L183 109L177 105L177 113Z" fill="var(--color-contrast-high)"/>
+<rect x="80" y="84" width="64" height="6" fill="var(--color-contrast-high)"/>
+<rect x="80" y="106" width="46" height="6" fill="var(--color-contrast-high)"/>
+<rect x="80" y="128" width="64" height="6" fill="var(--color-contrast-high)"/>
+<rect x="80" y="150" width="46" height="6" fill="var(--color-contrast-high)"/>
+<circle cx="86" cy="31" r="15" fill="var(--color-contrast-high)"/>
+<rect x="81.0503" y="24.636" width="16" height="2" rx="1" transform="rotate(45 81.0503 24.636)" fill="var(--color-bg)"/>
+<rect x="92.364" y="26.0502" width="16" height="2" rx="1" transform="rotate(135 92.364 26.0502)" fill="var(--color-bg)"/>
+</svg>
